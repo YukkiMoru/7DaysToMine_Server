@@ -1,0 +1,35 @@
+{
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-09-10 12:11:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-09-10 12:11:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-09-10 12:03:13 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2024-09-10 12:11:28 +0900"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:frozen_ocean": "2024-09-10 12:03:38 +0900",
+      "minecraft:taiga": "2024-09-10 12:03:14 +0900",
+      "minecraft:snowy_beach": "2024-09-10 12:04:01 +0900"
+    },
+    "done": false
+  },
+  "DataVersion": 3955
+}
