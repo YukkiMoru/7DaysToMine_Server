@@ -1,0 +1,3 @@
+[submodule "7DaysToMine_Server/7DaysToMine-Server"]
+	path = 7DaysToMine_Server/7DaysToMine-Server
+	url = https://github.com/YukkiMoru/7DaysToMine-Server.git
