@@ -1,0 +1,15 @@
+# trades/weapon.yml
+
+trades:
+  - weapon:
+    name: "Iron Sword"
+    sell-item: "emerald"
+    sell-amount: 2
+    buy-item: "iron_sword"
+    buy-amount: 1
+  - weapon:
+    name: "Diamond Sword"
+    sell-item: "emerald"
+    sell-amount: 4
+    buy-item: "diamond_sword"
+    buy-amount: 1
