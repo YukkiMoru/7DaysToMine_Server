@@ -1556,6 +1556,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-09-18 22:04:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-09-18 22:04:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-09-18 22:04:08 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2024-09-18 22:04:43 +0900"
@@ -1586,27 +1604,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/pumpkin_seeds": {
-    "criteria": {
-      "has_pumpkin": "2024-09-18 22:04:08 +0900"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2024-09-18 22:04:43 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/jack_o_lantern": {
+  "minecraft:recipes/decorations/white_banner": {
     "criteria": {
-      "has_carved_pumpkin": "2024-09-18 22:04:05 +0900"
+      "has_white_wool": "2024-09-18 23:35:24 +0900"
     },
     "done": true
   },
-  "minecraft:recipes/food/pumpkin_pie": {
+  "minecraft:recipes/decorations/white_bed": {
     "criteria": {
-      "has_carved_pumpkin": "2024-09-18 22:04:05 +0900"
+      "has_white_wool": "2024-09-18 23:35:24 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2024-09-18 23:35:24 +0900"
     },
     "done": true
   },
