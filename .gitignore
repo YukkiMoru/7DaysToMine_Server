@@ -1,3 +1,4 @@
 logs/
 world/session.lock
 world_the_end/session.lock
+.console_history
