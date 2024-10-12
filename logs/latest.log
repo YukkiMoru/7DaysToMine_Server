@@ -1,139 +1,73 @@
-[21:33:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.1+12-LTS-29; Oracle Corporation null) on Windows 11 10.0 (amd64)
-[21:33:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-89-master@1ed64f8 (2024-09-21T19:32:37Z) for Minecraft 1.21.1
-[21:33:50] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:33:51] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[21:33:51] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
+[20:26:00] [ServerMain/INFO]: [bootstrap] Running Java 21 (Java HotSpot(TM) 64-Bit Server VM 21.0.1+12-LTS-29; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[20:26:00] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-89-master@1ed64f8 (2024-09-21T19:32:37Z) for Minecraft 1.21.1
+[20:26:01] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[20:26:01] [ServerMain/INFO]: [PluginInitializerManager] Initialized 2 plugins
+[20:26:01] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (2):
  - 7DaysToMine (1.0), WorldEdit (7.3.6+6892-3d660b8)
-[21:33:54] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[21:33:54] [ServerMain/WARN]: resource-pack-id missing, using default of faa14b54-87ae-3249-9394-b3758bcca96c
-[21:33:54] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:33:56] [ServerMain/INFO]: Loaded 1290 recipes
-[21:33:56] [ServerMain/INFO]: Loaded 1399 advancements
-[21:33:56] [Server thread/INFO]: Starting minecraft server version 1.21.1
-[21:33:56] [Server thread/INFO]: Loading properties
-[21:33:57] [Server thread/INFO]: This server is running Paper version 1.21.1-89-master@1ed64f8 (2024-09-21T19:32:37Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
-[21:33:57] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:33:57] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:33:57] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:33:58] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and population gen parallelism of 5 threads
-[21:33:58] [Server thread/INFO]: Default game type: SURVIVAL
-[21:33:58] [Server thread/INFO]: Generating keypair
-[21:33:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:33:58] [Server thread/INFO]: Using default channel type
-[21:33:58] [Server thread/INFO]: Paper: Using Java compression from Velocity.
-[21:33:58] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
-[21:33:58] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.6+6892-3d660b8
-[21:34:00] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@60702a4c]
-[21:34:00] [Server thread/INFO]: [7DaysToMine] Loading server plugin 7DaysToMine v1.0
-[21:34:00] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:34:00] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.6+6892-3d660b8
-[21:34:00] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[21:34:00] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:34:01] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
-[21:34:02] [Server thread/INFO]: Preparing level "world"
-[21:34:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:34:03] [Server thread/INFO]: Time elapsed: 366 ms
-[21:34:03] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:34:03] [Server thread/INFO]: Time elapsed: 72 ms
-[21:34:03] [Server thread/INFO]: [7DaysToMine] Enabling 7DaysToMine v1.0
-[21:34:03] [Server thread/INFO]: [7DaysToMine] SDTM plugin enabled
-[21:34:03] [Server thread/INFO]: No entity was found
-[21:34:03] [Server thread/INFO]: No entity was found
-[21:34:03] [Server thread/INFO]: Summoned new Block Display
-[21:34:03] [Server thread/INFO]: [spark] Starting background profiler...
-[21:34:03] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
-[21:34:04] [Server thread/INFO]: Done preparing level "world" (1.531s)
-[21:34:04] [Server thread/INFO]: Running delayed init tasks
-[21:34:04] [User Authenticator #0/INFO]: UUID of player Yukki_Moru is 3f9b8020-5e20-4269-a604-f0fb47c8abc3
-[21:34:05] [Server thread/INFO]: Done (15.691s)! For help, type "help"
-[21:34:05] [Server thread/INFO]: Timings Reset
-[21:34:08] [Server thread/INFO]: Yukki_Moru joined the game
-[21:34:08] [Server thread/INFO]: Yukki_Moru[/127.0.0.1:58802] logged in with entity id 6 at ([world]-985.3083612403276, 7.222397784186688, 1006.3200799431639)
-[21:34:25] [Server thread/INFO]: Yukki_Moru issued server command: /reload confirm
-[21:34:25] [Server thread/INFO]: Yukki_Moru: Please note that this command is not supported and may cause issues when using some plugins.
-[21:34:25] [Server thread/INFO]: Yukki_Moru: If you encounter any issues please use the /stop command to restart your server.
-[21:34:25] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
-[21:34:25] [Server thread/WARN]: resource-pack-id missing, using default of faa14b54-87ae-3249-9394-b3758bcca96c
-[21:34:25] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:34:25] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:34:25] [Server thread/INFO]: [7DaysToMine] Disabling 7DaysToMine v1.0
-[21:34:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.6+6892-3d660b8
-[21:34:25] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[21:34:26] [Server thread/INFO]: Loaded 1290 recipes
-[21:34:26] [Server thread/INFO]: Loaded 1399 advancements
-[21:34:26] [Server thread/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:34:26] [Paper Async Command Builder Thread Pool - 0/ERROR]: Caught previously unhandled exception :
-[21:34:26] [Server thread/INFO]: [PluginInitializerManager] Initialized 2 plugins
-[21:34:26] [Server thread/INFO]: [PluginInitializerManager] Bukkit plugins (2):
- - 7DaysToMine (1.0), WorldEdit (7.3.6+6892-3d660b8)
-[21:34:26] [Paper Async Command Builder Thread Pool - 0/ERROR]: Paper Async Command Builder Thread Pool - 0
-java.util.ConcurrentModificationException: null
-	at java.base/java.util.LinkedHashMap$LinkedHashIterator.nextNode(LinkedHashMap.java:1023) ~[?:?]
-	at java.base/java.util.LinkedHashMap$LinkedValueIterator.next(LinkedHashMap.java:1052) ~[?:?]
-	at net.minecraft.commands.Commands.fillUsableCommands(Commands.java:537) ~[paper-1.21.1.jar:1.21.1-89-1ed64f8]
-	at net.minecraft.commands.Commands.sendAsync(Commands.java:496) ~[paper-1.21.1.jar:1.21.1-89-1ed64f8]
-	at net.minecraft.commands.Commands.lambda$sendCommands$6(Commands.java:475) ~[paper-1.21.1.jar:1.21.1-89-1ed64f8]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[21:34:26] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.6+6892-3d660b8
-[21:34:27] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@6190abe]
-[21:34:27] [Server thread/INFO]: [7DaysToMine] Loading server plugin 7DaysToMine v1.0
-[21:34:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:34:27] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.6+6892-3d660b8
-[21:34:27] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[21:34:27] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[21:34:27] [Server thread/WARN]: [WorldEdit] Server reload detected. This may cause various issues with WorldEdit and dependent plugins.
-[21:34:28] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
-[21:34:29] [Server thread/INFO]: [7DaysToMine] Enabling 7DaysToMine v1.0
-[21:34:29] [Server thread/INFO]: [7DaysToMine] SDTM plugin enabled
-[21:34:29] [Server thread/INFO]: Yukki_Moru: Reload complete.
-[21:34:29] [Server thread/INFO]: Base value for attribute Block Break Speed for entity Yukki_Moru set to 0.0
-[21:34:29] [Server thread/INFO]: Villager Villager['Weapon Master'/2, uuid='c44b83a4-fe69-4dd3-ba04-161eb011b58e', l='ServerLevel[world]', x=-992.50, y=3.00, z=1014.50, cpos=[-63, 63], tl=336, v=true] died, message: 'Weapon Master was killed'
-[21:34:29] [Server thread/INFO]: Named entity Villager['Weapon Master'/2, uuid='c44b83a4-fe69-4dd3-ba04-161eb011b58e', l='ServerLevel[world]', x=-992.50, y=3.00, z=1014.50, cpos=[-63, 63], tl=336, v=true] died: Weapon Master was killed
-[21:34:29] [Server thread/INFO]: Villager Villager['Pickaxe Master'/4, uuid='329a3bad-ae91-4439-8641-d4ceacbcba54', l='ServerLevel[world]', x=-988.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=341, v=true] died, message: 'Pickaxe Master was killed'
-[21:34:29] [Server thread/INFO]: Named entity Villager['Pickaxe Master'/4, uuid='329a3bad-ae91-4439-8641-d4ceacbcba54', l='ServerLevel[world]', x=-988.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=341, v=true] died: Pickaxe Master was killed
-[21:34:29] [Server thread/INFO]: Villager Villager['Utility Master'/9, uuid='71ea12f1-bdde-443f-980c-ef119285e4aa', l='ServerLevel[world]', x=-986.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=5566, v=true] died, message: 'Utility Master was killed'
-[21:34:29] [Server thread/INFO]: Named entity Villager['Utility Master'/9, uuid='71ea12f1-bdde-443f-980c-ef119285e4aa', l='ServerLevel[world]', x=-986.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=5566, v=true] died: Utility Master was killed
-[21:34:29] [Server thread/INFO]: Villager Villager['Utility Master'/5, uuid='1423c5a8-2509-4230-93a3-b444c52e0259', l='ServerLevel[world]', x=-986.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=341, v=true] died, message: 'Utility Master was killed'
-[21:34:29] [Server thread/INFO]: Named entity Villager['Utility Master'/5, uuid='1423c5a8-2509-4230-93a3-b444c52e0259', l='ServerLevel[world]', x=-986.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=341, v=true] died: Utility Master was killed
-[21:34:29] [Server thread/INFO]: Villager Villager['Potion Master'/3, uuid='5a800371-fa20-46ae-aeca-3128d1677584', l='ServerLevel[world]', x=-990.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=341, v=true] died, message: 'Potion Master was killed'
-[21:34:29] [Server thread/INFO]: Named entity Villager['Potion Master'/3, uuid='5a800371-fa20-46ae-aeca-3128d1677584', l='ServerLevel[world]', x=-990.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=341, v=true] died: Potion Master was killed
-[21:34:29] [Server thread/INFO]: Villager Villager['Potion Master'/8, uuid='f7c8ef99-ffc0-4048-89bb-0ee3a777337c', l='ServerLevel[world]', x=-990.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=5566, v=true] died, message: 'Potion Master was killed'
-[21:34:29] [Server thread/INFO]: Named entity Villager['Potion Master'/8, uuid='f7c8ef99-ffc0-4048-89bb-0ee3a777337c', l='ServerLevel[world]', x=-990.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=5566, v=true] died: Potion Master was killed
-[21:34:29] [Server thread/INFO]: Villager Villager['Pickaxe Master'/7, uuid='96fc9a5b-0576-4ecd-831e-7797360f7396', l='ServerLevel[world]', x=-988.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=5566, v=true] died, message: 'Pickaxe Master was killed'
-[21:34:29] [Server thread/INFO]: Named entity Villager['Pickaxe Master'/7, uuid='96fc9a5b-0576-4ecd-831e-7797360f7396', l='ServerLevel[world]', x=-988.50, y=3.00, z=1014.50, cpos=[-62, 63], tl=5566, v=true] died: Pickaxe Master was killed
-[21:34:29] [Server thread/INFO]: Villager Villager['Weapon Master'/10, uuid='d2469b06-7ca4-435e-9de4-b2ed31f7cc91', l='ServerLevel[world]', x=-992.50, y=3.00, z=1014.50, cpos=[-63, 63], tl=5561, v=true] died, message: 'Weapon Master was killed'
-[21:34:29] [Server thread/INFO]: Named entity Villager['Weapon Master'/10, uuid='d2469b06-7ca4-435e-9de4-b2ed31f7cc91', l='ServerLevel[world]', x=-992.50, y=3.00, z=1014.50, cpos=[-63, 63], tl=5561, v=true] died: Weapon Master was killed
-[21:34:29] [Server thread/INFO]: Killed 8 entities
-[21:34:29] [Server thread/INFO]: Summoned new Block Display
-[21:34:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3455ms or 69 ticks behind
-[21:34:29] [Server thread/INFO]: Timings Reset
-[21:35:56] [Server thread/INFO]: Yukki_Moru issued server command: ///
-[21:35:58] [Server thread/INFO]: Yukki_Moru issued server command: //
-[21:36:27] [Server thread/INFO]: Yukki_Moru issued server command: //wand
-[21:36:36] [Server thread/INFO]: Yukki_Moru issued server command: //set hnad
-[21:36:41] [Server thread/INFO]: Yukki_Moru issued server command: //set hand
-[21:55:38] [Server thread/INFO]: Yukki_Moru issued server command: /stop
-[21:55:38] [Server thread/INFO]: [Yukki_Moru: Stopping the server]
-[21:55:38] [Server thread/INFO]: Stopping server
-[21:55:38] [Server thread/INFO]: [7DaysToMine] Disabling 7DaysToMine v1.0
-[21:55:38] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.6+6892-3d660b8
-[21:55:38] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[21:55:38] [Server thread/INFO]: Saving players
-[21:55:38] [Server thread/INFO]: Yukki_Moru lost connection: Server closed
-[21:55:38] [Server thread/INFO]: Yukki_Moru left the game
-[21:55:38] [Server thread/INFO]: Saving worlds
-[21:55:38] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[21:55:38] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[21:55:38] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[21:55:38] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[21:55:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 3 entity chunks, 0 poi chunks in world 'world' in 0.02s
-[21:55:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[21:55:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[21:55:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[21:55:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[21:55:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[21:55:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[21:55:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[21:55:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[20:26:05] [ServerMain/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[20:26:05] [ServerMain/WARN]: resource-pack-id missing, using default of faa14b54-87ae-3249-9394-b3758bcca96c
+[20:26:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[20:26:07] [ServerMain/INFO]: Loaded 1290 recipes
+[20:26:07] [ServerMain/INFO]: Loaded 1399 advancements
+[20:26:07] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[20:26:07] [Server thread/INFO]: Loading properties
+[20:26:07] [Server thread/INFO]: This server is running Paper version 1.21.1-89-master@1ed64f8 (2024-09-21T19:32:37Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[20:26:08] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[20:26:08] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:26:08] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:26:09] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and population gen parallelism of 5 threads
+[20:26:09] [Server thread/INFO]: Default game type: SURVIVAL
+[20:26:09] [Server thread/INFO]: Generating keypair
+[20:26:09] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:26:09] [Server thread/INFO]: Using default channel type
+[20:26:09] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[20:26:09] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[20:26:09] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.6+6892-3d660b8
+[20:26:11] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@41d3744b]
+[20:26:11] [Server thread/INFO]: [7DaysToMine] Loading server plugin 7DaysToMine v1.0
+[20:26:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:26:11] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.6+6892-3d660b8
+[20:26:11] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:26:11] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:26:12] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[20:26:14] [Server thread/INFO]: Preparing level "world"
+[20:26:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:26:15] [Server thread/INFO]: Time elapsed: 342 ms
+[20:26:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:26:15] [Server thread/INFO]: Time elapsed: 101 ms
+[20:26:15] [Server thread/INFO]: [7DaysToMine] Enabling 7DaysToMine v1.0
+[20:26:15] [Server thread/INFO]: [7DaysToMine] SDTM plugin enabled
+[20:26:15] [Server thread/INFO]: No entity was found
+[20:26:15] [Server thread/INFO]: No entity was found
+[20:26:15] [Server thread/INFO]: Summoned new Block Display
+[20:26:15] [Server thread/INFO]: [spark] Starting background profiler...
+[20:26:15] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[20:26:15] [Server thread/INFO]: Done preparing level "world" (1.827s)
+[20:26:16] [Server thread/INFO]: Running delayed init tasks
+[20:26:17] [Server thread/INFO]: Done (17.665s)! For help, type "help"
+[20:26:17] [Server thread/INFO]: Timings Reset
+[20:27:14] [User Authenticator #0/INFO]: UUID of player Yukki_Moru is 3f9b8020-5e20-4269-a604-f0fb47c8abc3
+[20:27:14] [Server thread/INFO]: Yukki_Moru joined the game
+[20:27:15] [Server thread/INFO]: Yukki_Moru[/127.0.0.1:55428] logged in with entity id 6 at ([world]-986.9659665915405, 10.286588272976909, 1004.1769554151233)
+[20:31:35] [Server thread/INFO]: Yukki_Moru lost connection: Disconnected
+[20:31:35] [Server thread/INFO]: Yukki_Moru left the game
+[20:31:53] [Server thread/INFO]: Stopping the server
+[20:31:53] [Server thread/INFO]: Stopping server
+[20:31:53] [Server thread/INFO]: [7DaysToMine] Disabling 7DaysToMine v1.0
+[20:31:53] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.6+6892-3d660b8
+[20:31:53] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:31:53] [Server thread/INFO]: Saving players
+[20:31:53] [Server thread/INFO]: Saving worlds
+[20:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:31:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[20:31:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[20:31:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[20:31:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 1 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[20:31:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:31:53] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[20:31:53] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[20:31:53] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[20:31:53] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[20:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:31:53] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
